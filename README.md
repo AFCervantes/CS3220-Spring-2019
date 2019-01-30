@@ -58,7 +58,6 @@ Official GitHub for CS3220 - Spring 2019 sections
 |  10 - Thursday |    |   [Watch](http://albertcervantes.com/cs3220/lectures/cs3220-2019-03-28-ttr.mp4)  |
 |  11 - Tuesday  | Spring Break - No Class  |   |
 |  11 - Thursday | Spring Break - No Class   |   |
-|  11 - Saturday | Spring Break - No Class  |  |
 |  12 - Tuesday  |   | [Watch](http://albertcervantes.com/cs3220/lectures/cs3220-2019-04-09-ttr.mp4)  |
 |  12 - Thursday |    |   [Watch](http://albertcervantes.com/cs3220/lectures/cs3220-2019-04-11-ttr.mp4)  |
 |  13 - Tuesday  |   | [Watch](http://albertcervantes.com/cs3220/lectures/cs3220-2019-04-16-ttr.mp4)  |
@@ -71,7 +70,6 @@ Official GitHub for CS3220 - Spring 2019 sections
 |  16 - Thursday |    |   [Watch](http://albertcervantes.com/cs3220/lectures/cs3220-2019-05-09-ttr.mp4)  |
 |  17 - Tuesday  | Final Exam  |   |
 |  17 - Thursday | Final Exam   |   |
-|  17 - Saturday | Final Exam  |  |
 
 ### Lecture Videos - Saturday Section
 
