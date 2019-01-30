@@ -20,12 +20,12 @@ Official GitHub for CS3220 - Spring 2019 sections
 
 ### Review:
 
-[Bootstrap 4 Essential Training](https://www.lynda.com/Bootstrap-tutorials/Bootstrap-4-Essential-Training/372545-2.html)
+- [Bootstrap 4 Essential Training](https://www.lynda.com/Bootstrap-tutorials/Bootstrap-4-Essential-Training/372545-2.html)
 
-- Section 1 - Getting Started
-- Section 2 - Using Basic Styles
-- Section 3 - Mastering Layout with Bootstrap
-- Section 4 - — *SKIP* —
-- Section 5 - Style Element Overview
-- Section 6 - Using Layout Component
-- Section 7 - Using Form Styles
+	- Section 1 - Getting Started
+	- Section 2 - Using Basic Styles
+	- Section 3 - Mastering Layout with Bootstrap
+	- Section 4 - — *SKIP* —
+	- Section 5 - Style Element Overview
+	- Section 6 - Using Layout Component
+	- Section 7 - Using Form Styles
