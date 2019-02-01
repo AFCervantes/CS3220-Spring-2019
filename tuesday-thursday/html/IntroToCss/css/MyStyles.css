@@ -1,0 +1,48 @@
+/* 
+    This is my first Cascading StyleSheet
+ */
+ body {
+     margin-left: 20px; 
+     /* background-color:  rgb(251, 202, 54); */
+     color: #9638de;
+ }
+
+ a {
+    color: #9638de;
+    text-decoration: none;
+ }
+a:hover {
+    text-decoration: underline;
+    font-size: 1.2em;
+}
+
+nav {
+    border: 1px solid black;
+    
+    /* padding-top: 10px;
+    padding-right: 20px;
+    padding-bottom: 30px;
+    padding-left: 40px; */
+
+    /* Top Right Bottom Left */
+    /* padding: 10px 20px 30px 40px; */
+
+    /* Top/bottom: 20px, Left/Right: 10px */
+    /* padding: 20px 10px; */
+
+    /* Set the top, right, bottom, and left to 15px */
+    padding: 15px;
+}
+
+.section {
+    border: 1px solid gray;
+    margin: 20px;
+}
+
+#online-terms {
+    text-align: center;
+}
+#online-terms dt, #online-terms dd{
+    margin: 0;
+}
+ 
