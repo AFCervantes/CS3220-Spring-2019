@@ -40,7 +40,7 @@ Official GitHub for CS3220 - Spring 2019 sections
 |  1 - Thursday | No Class   |   |
 |  2 - Tuesday  | HTML Images, Links, Lists, and Tables  | [Watch](http://albertcervantes.com/cs3220/lectures/cs3220-2019-01-29-ttr.mp4)  |
 |  2 - Thursday | Intro to CSS and Twitter Bootstrap   | [Watch](http://albertcervantes.com/cs3220/lectures/cs3220-2019-01-31-ttr.mp4)  |
-|  3 - Tuesday  | (Add & No Record Drop Deadline)  | [Watch](http://albertcervantes.com/cs3220/lectures/cs3220-2019-02-05-ttr.mp4)  |
+|  3 - Tuesday  | (Add & No Record Drop Deadline) Development Environment Setup, Intro to Dynamic Web Applications, and Servlet and JSP Deployment on CS3  | [Watch](http://albertcervantes.com/cs3220/lectures/cs3220-2019-02-05-ttr.mp4)  |
 |  3 - Thursday |    | [Watch](http://albertcervantes.com/cs3220/lectures/cs3220-2019-02-7-ttr.mp4)  |
 |  4 - Tuesday  |   | [Watch](http://albertcervantes.com/cs3220/lectures/cs3220-2019-02-12-ttr.mp4)  |
 |  4 - Thursday |    |   [Watch](http://albertcervantes.com/cs3220/lectures/cs3220-2019-02-14-ttr.mp4)  |
