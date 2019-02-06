@@ -39,7 +39,7 @@ Official GitHub for CS3220 - Spring 2019 sections
 |  1 - Tuesday  | Introduction to HTML  |  [Watch](http://albertcervantes.com/cs3220/lectures/cs3220-2019-01-22-ttr.mp4)  |
 |  1 - Thursday | No Class   |   |
 |  2 - Tuesday  | HTML Images, Links, Lists, and Tables  | [Watch](http://albertcervantes.com/cs3220/lectures/cs3220-2019-01-29-ttr.mp4)  |
-|  2 - Thursday |    | [Watch](http://albertcervantes.com/cs3220/lectures/cs3220-2019-01-31-ttr.mp4)  |
+|  2 - Thursday | Intro to CSS and Twitter Bootstrap   | [Watch](http://albertcervantes.com/cs3220/lectures/cs3220-2019-01-31-ttr.mp4)  |
 |  3 - Tuesday  | (Add & No Record Drop Deadline)  | [Watch](http://albertcervantes.com/cs3220/lectures/cs3220-2019-02-05-ttr.mp4)  |
 |  3 - Thursday |    | [Watch](http://albertcervantes.com/cs3220/lectures/cs3220-2019-02-7-ttr.mp4)  |
 |  4 - Tuesday  |   | [Watch](http://albertcervantes.com/cs3220/lectures/cs3220-2019-02-12-ttr.mp4)  |
@@ -76,7 +76,7 @@ Official GitHub for CS3220 - Spring 2019 sections
 | Week  | Topic(s) | Link   |
 |---|---|:---:|
 |  1 - Saturday | Introduction to HTML  |  [Watch](http://albertcervantes.com/cs3220/lectures/cs3220-2019-01-26-s.mp4)  |
-|  2 - Saturday |   | [Watch](http://albertcervantes.com/cs3220/lectures/cs3220-2019-02-02-s.mp4) |
+|  2 - Saturday | Introduction to CSS and Bootstrap  | [Watch](http://albertcervantes.com/cs3220/lectures/cs3220-2019-02-02-s.mp4) |
 |  3 - Saturday |   | [Watch](http://albertcervantes.com/cs3220/lectures/cs3220-2019-02-09-s.mp4) |
 |  4 - Saturday |   | [Watch](http://albertcervantes.com/cs3220/lectures/cs3220-2019-02-16-s.mp4) |
 |  5 - Saturday |   | [Watch](http://albertcervantes.com/cs3220/lectures/cs3220-2019-02-23-s.mp4) |
