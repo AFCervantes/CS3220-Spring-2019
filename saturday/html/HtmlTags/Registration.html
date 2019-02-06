@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Web Club</title>
+</head>
+<body>
+
+    <h1>
+        Web Programming Club 
+        <small>CS3220</small>
+    </h1>
+    <p>Thank you for your interest in joining our club! Please fill out the registration form below to be considered for membership.</p>
+
+    <form>
+        <label for="name">Name</label>
+        <br>
+        <input type="text" name="fullName" id="name" placeholder="Enter your full name">
+
+        <br>
+        <label for="email">E-mail</label>
+        <br>
+        <input type="email" name="email" id="email" placeholder="Enter your email address">
+
+        <br>
+        <label for="pw1">Password</label>
+        <br>
+        <input type="password" name="pw1" id="pw1" placeholder="Enter a password">
+        
+        <br>
+        <label for="pw2">Re-Enter Password</label>
+        <br>
+        <input type="password" name="pw2" id="pw2" placeholder="Re-Enter your password">
+
+        <h3>Interests</h3>
+        <p>What are your interests? Select all that apply.</p>
+        <input type="checkbox" name="interests" value="computers"> Computers
+        <input checked type="checkbox" name="interests" value="games"> Video Games
+        <input type="checkbox" name="interests" value="hiking"> Hiking
+        <input type="checkbox" name="interests" value="photography"> Photography
+
+        <h3>Meeting Time</h3>
+        <p>Please indicate your preferred meeting time.</p>
+
+        <input type="radio" name="meetingTime" value="AM"> AM
+        <input checked type="radio" name="meetingTime" value="PM"> PM
+        <!-- You can specify a default value by using the "checked" attribute -->
+
+        <h3>Major</h3>
+        <p>Please indicate your major.</p>
+        <select name="major">
+            <option value="cs">Computer Science</option>
+            <option value="ce">Computer Engineering</option>
+            <option value="ee">Electrical Enginnering</option>
+            <option value="other">Other</option>
+        </select>
+
+        <h3>About You</h3>
+        <p>Tell us something interesting about yourself.</p>
+        <textarea name="about" rows="10" cols="50"></textarea>
+
+        <br>
+
+        <input type="submit" name="submitBtn" value="Register">
+
+    </form>
+
+    
+</body>
+</html>
