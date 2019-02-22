@@ -13,6 +13,7 @@ import javax.servlet.http.HttpServletResponse;
 public class SimpleAdderServlet extends HttpServlet {
 	private static final long serialVersionUID = 1L;
        
+
 	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 		
 		response.setContentType("text/html");
@@ -30,20 +31,12 @@ public class SimpleAdderServlet extends HttpServlet {
 		out.println("<div class=\"container\">");
 		out.println("	<h1>Simple Adder</h1>");
 		
-		// Insert the page-specific content here...
-		// The sum of <number1> and <number2> is: <sum>
+		// Read the values of number1 and number2 from the HTTP Request
 		String str1 = request.getParameter("number1");
 		String str2 = request.getParameter("number2");
 		
-		int num1 = 0, num2 = 0; // Defined here for Scope
-		
-		try {
-			num1 = Integer.parseInt( str1 );
-			num2 = Integer.parseInt( str2 );
-		} catch(NumberFormatException e) {
-			response.sendRedirect("../SimpleAdder.html");
-			return; // Ensure that the doGet method stops executing.
-		}
+		int num1 = Integer.parseInt( str1 );
+		int num2 = Integer.parseInt( str2 );
 		
 		out.println("<p class=\"lead\">The sum of " + num1 + " and " + num2 + " = " + (num1 + num2) + "</p>");
 		
@@ -53,6 +46,8 @@ public class SimpleAdderServlet extends HttpServlet {
 		out.println("</html>");
 	
 	}
+
+
 
 	protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 		doGet(request, response);

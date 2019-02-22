@@ -12,40 +12,34 @@ import javax.servlet.http.HttpServletResponse;
 
 import models.GuestBookEntry;
 
-/**
- * Servlet implementation class EditEntryServlet
- */
-@WebServlet("/requests/EditEntry2")
+@WebServlet("/requests/EditEntry")
 public class EditEntryServlet extends HttpServlet {
 	private static final long serialVersionUID = 1L;
-    
-	protected GuestBookEntry getEntry(int id) {
+
+	protected GuestBookEntry getEntry(HttpServletRequest request) {
 		
-		// Get a reference to the Guest Book in the Servlet Context
+		// Get the ID of the entry being edited
+		int id = Integer.parseInt(request.getParameter("id"));
+		
+		// Get a reference to the guest book		
 		ArrayList<GuestBookEntry> guestbookEntries = (ArrayList<GuestBookEntry>) getServletContext().getAttribute("guestbookEntries");
-		
-		// Delete a entry from the guest book
+				
+		// Find the entry
 		for (GuestBookEntry entry : guestbookEntries) {
-			if (entry.getId() == id) 
+			if (entry.getId() == id)
 				return entry;
-			
 		}
 		
 		return null;
 	}
-	
 	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 		
-		// Get the entry to be modified
-		int id = Integer.parseInt(request.getParameter("id"));
-		GuestBookEntry entry = getEntry(id);
+		GuestBookEntry entry = getEntry( request );
 		
 		if (entry == null){
 			response.sendRedirect("GuestBook");
 			return;
 		}
-		
-		
 		
 		response.setContentType("text/html");
 		
@@ -69,8 +63,7 @@ public class EditEntryServlet extends HttpServlet {
 		out.println("		Message: <br>");
 		out.println("		<textarea name=\"message\">" + entry.getMessage() + "</textarea> <br>");
 		
-		out.println("		<input type=\"hidden\" name=\"id\" value=\"" + id + "\">");
-		
+		out.println("       <input type=\"hidden\" name=\"id\" value=\"" + entry.getId() + "\">");
 		out.println("		<input class=\"btn btn-success\" type=\"submit\" name=\"submitBtn\" value=\"Save Comment\">");
 		out.println("	</form>");
 		
@@ -78,36 +71,19 @@ public class EditEntryServlet extends HttpServlet {
 		out.println("</div>");
 		out.println("</body>");
 		out.println("</html>");
-	
 	}
 
-	/**
-	 * @see HttpServlet#doPost(HttpServletRequest request, HttpServletResponse response)
-	 */
+	
 	protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
-		// Get the entry to be modified
-		int id = Integer.parseInt(request.getParameter("id"));
-		GuestBookEntry entry = getEntry(id);
+		String name = request.getParameter("name");
+		String message = request.getParameter("message");
 		
-		if (entry != null){
-			
-			String name = request.getParameter("name");
-			String message = request.getParameter("message");
-			
-			entry.setName(name);
-			entry.setMessage(message);			
-		}
+		GuestBookEntry entry = getEntry( request );
 		
-		response.sendRedirect("GuestBook");		
+		entry.setName(name);
+		entry.setMessage(message);
+		
+		response.sendRedirect("GuestBook");
 	}
 
 }
-
-
-
-
-
-
-
-
-
