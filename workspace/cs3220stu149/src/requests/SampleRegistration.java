@@ -9,52 +9,49 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-@WebServlet("/requests/SimpleAdder")
-public class SimpleAdderServlet extends HttpServlet {
+
+@WebServlet("/requests/register")
+public class SampleRegistration extends HttpServlet {
 	private static final long serialVersionUID = 1L;
        
 
 	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 		
+			
+		// Set the content type to HTML
 		response.setContentType("text/html");
 		
+		// Get a reference to the Print Write to talk back to the client
 		PrintWriter out = response.getWriter();
 		
+		// The template text/html
 		out.println("<!DOCTYPE html>");
 		out.println("<html lang=\"en\">");
 		out.println("<head>");
 		out.println("	<meta charset=\"UTF-8\">");
-		out.println("	<title>Simple Adder</title>");
+		out.println("	<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">");
+		out.println("	<title>Document</title>");
 		out.println("	<link rel=\"stylesheet\" href=\"https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css\" integrity=\"sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO\" crossorigin=\"anonymous\">");
 		out.println("</head>");
 		out.println("<body>");
 		out.println("<div class=\"container\">");
-		out.println("	<h1>Simple Adder</h1>");
+		out.println("	<h1>Your Heading Here</h1>");
 		
-		try {
-		// Read the values of number1 and number2 from the HTTP Request
-		String str1 = request.getParameter("number1");
-		String str2 = request.getParameter("number2");
-		
-		int num1 = Integer.parseInt( str1 );
-		int num2 = Integer.parseInt( str2 );
-		
-		out.println("<p class=\"lead\">The sum of " + num1 + " and " + num2 + " = " + (num1 + num2) + "</p>");
-		}
-		catch(NumberFormatException e) {
-			response.sendRedirect("../SimpleAdder.html");
-		}
+		// Insert the page-specific content here...
 		
 		
 		out.println("</div>");
 		out.println("</body>");
 		out.println("</html>");
-	
+		
+		 
 	}
 
-
-
+	/**
+	 * @see HttpServlet#doPost(HttpServletRequest request, HttpServletResponse response)
+	 */
 	protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+		// TODO Auto-generated method stub
 		doGet(request, response);
 	}
 

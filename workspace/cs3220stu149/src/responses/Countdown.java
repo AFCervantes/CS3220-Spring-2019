@@ -39,8 +39,11 @@ public class Countdown extends HttpServlet {
 		out.println("	<h1>");
 		
 		if ( count > 0 ) {
-			response.setIntHeader( "Refresh", 1 );			
-			out.println("T-Minus " + count + " second(s)...");			
+			int delay = 1;
+			
+			response.setHeader( "Refresh", delay + "" );
+			//response.setIntHeader( "Refresh", 1 );
+			out.println("T-Minus " + count + " second(s), and counting...");			
 			count--;
 		}
 		else {

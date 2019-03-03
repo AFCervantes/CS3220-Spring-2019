@@ -18,8 +18,6 @@ public class Download extends HttpServlet {
     
 	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 
-		
-		// image.png?id=12345
 		response.setContentType( "image/jpg" );
         response.setHeader( "Content-Disposition",
             "attachment; filename=cark.jpg" );
