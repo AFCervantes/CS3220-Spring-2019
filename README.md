@@ -48,7 +48,7 @@ Official GitHub for CS3220 - Spring 2019 sections
 |  5 - Thursday | Refresh and Content-Disposition Headers. Review of CS3 deployment.  |   [Watch](http://albertcervantes.com/cs3220/lectures/cs3220-2019-02-21-ttr.mp4)  |
 |  6 - Tuesday  | Lab  | Not Applicable  |
 |  6 - Thursday | Kanban review. Phonebook example. Form validation, error messages, and sticky-form elements.    |   [Watch](http://albertcervantes.com/cs3220/lectures/cs3220-2019-02-28-ttr.mp4)  |
-|  7 - Tuesday  |   | [Watch](http://albertcervantes.com/cs3220/lectures/cs3220-2019-03-05-ttr.mp4)  |
+|  7 - Tuesday  | Introduction to Cookies.  | [Watch](http://albertcervantes.com/cs3220/lectures/cs3220-2019-03-05-ttr.mp4)  |
 |  7 - Thursday |    |   [Watch](http://albertcervantes.com/cs3220/lectures/cs3220-2019-03-07-ttr.mp4)  |
 |  8 - Tuesday  |   | [Watch](http://albertcervantes.com/cs3220/lectures/cs3220-2019-03-12-ttr.mp4)  |
 |  8 - Thursday |    |   [Watch](http://albertcervantes.com/cs3220/lectures/cs3220-2019-03-14-ttr.mp4)  |
