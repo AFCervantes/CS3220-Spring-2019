@@ -50,8 +50,8 @@ Official GitHub for CS3220 - Spring 2019 sections
 |  6 - Thursday | Kanban review. Phonebook example. Form validation, error messages, and sticky-form elements.    |   [Watch](http://albertcervantes.com/cs3220/lectures/cs3220-2019-02-28-ttr.mp4)  |
 |  7 - Tuesday  | Introduction to Cookies.  | [Watch](http://albertcervantes.com/cs3220/lectures/cs3220-2019-03-05-ttr.mp4)  |
 |  7 - Thursday | Introduction to Sessions. Midterm discussion. Todo solution.   |   [Watch](http://albertcervantes.com/cs3220/lectures/cs3220-2019-03-07-ttr.mp4)  |
-|  8 - Tuesday  |   | [Watch](http://albertcervantes.com/cs3220/lectures/cs3220-2019-03-12-ttr.mp4)  |
-|  8 - Thursday |    |   [Watch](http://albertcervantes.com/cs3220/lectures/cs3220-2019-03-14-ttr.mp4)  |
+|  8 - Tuesday  | Midterm - Part 1. Closed-Book, Closed-Note  | - |
+|  8 - Thursday | Midterm - Part 2. Open-Book, Open-Note.   | - |
 |  9 - Tuesday  |   | [Watch](http://albertcervantes.com/cs3220/lectures/cs3220-2019-03-19-ttr.mp4)  |
 |  9 - Thursday |    |   [Watch](http://albertcervantes.com/cs3220/lectures/cs3220-2019-03-21-ttr.mp4)  |
 |  10 - Tuesday  |   | [Watch](http://albertcervantes.com/cs3220/lectures/cs3220-2019-03-26-ttr.mp4)  |
