@@ -82,7 +82,7 @@ Official GitHub for CS3220 - Spring 2019 sections
 |  5 - Saturday | - | Not Available |
 |  6 - Saturday | Introduction of HTTP Responses. Redirection. Refresh and Content-Disposition Headers. Review of CS3 deployment.  | [Watch](http://albertcervantes.com/cs3220/lectures/cs3220-2019-03-02-s.mp4) [Kanban](http://albertcervantes.com/cs3220/lectures/cs3220-2019-03-02-s-kanban) |
 |  7 - Saturday | Introduction to Cookies and Sessions.  | [Watch](http://albertcervantes.com/cs3220/lectures/cs3220-2019-03-09-s.mp4) |
-|  8 - Saturday |   | [Watch](http://albertcervantes.com/cs3220/lectures/cs3220-2019-03-16-s.mp4) |
+|  8 - Saturday | Midterm  | - |
 |  9 - Saturday |   | [Watch](http://albertcervantes.com/cs3220/lectures/cs3220-2019-03-23-s.mp4) |
 |  10 - Saturday |   | [Watch](http://albertcervantes.com/cs3220/lectures/cs3220-2019-03-30-s.mp4) |
 |  11 - Saturday | Spring Break - No Class  |  |
