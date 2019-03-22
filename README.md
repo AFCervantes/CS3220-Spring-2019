@@ -52,8 +52,8 @@ Official GitHub for CS3220 - Spring 2019 sections
 |  7 - Thursday | Introduction to Sessions. Midterm discussion. Todo solution.   |   [Watch](http://albertcervantes.com/cs3220/lectures/cs3220-2019-03-07-ttr.mp4)  |
 |  8 - Tuesday  | Midterm - Part 1. Closed-Book, Closed-Note  | - |
 |  8 - Thursday | Midterm - Part 2. Open-Book, Open-Note.   | - |
-|  9 - Tuesday  |   | [Watch](http://albertcervantes.com/cs3220/lectures/cs3220-2019-03-19-ttr.mp4)  |
-|  9 - Thursday |    |   [Watch](http://albertcervantes.com/cs3220/lectures/cs3220-2019-03-21-ttr.mp4)  |
+|  9 - Tuesday  | Introduction to JSP and JSP Scripting Elements.  | [Watch](http://albertcervantes.com/cs3220/lectures/cs3220-2019-03-19-ttr.mp4)  |
+|  9 - Thursday |  Java Beans and Java Expression Language (EL)  |   [Watch](http://albertcervantes.com/cs3220/lectures/cs3220-2019-03-21-ttr.mp4)  |
 |  10 - Tuesday  |   | [Watch](http://albertcervantes.com/cs3220/lectures/cs3220-2019-03-26-ttr.mp4)  |
 |  10 - Thursday |    |   [Watch](http://albertcervantes.com/cs3220/lectures/cs3220-2019-03-28-ttr.mp4)  |
 |  11 - Tuesday  | Spring Break - No Class  |   |
