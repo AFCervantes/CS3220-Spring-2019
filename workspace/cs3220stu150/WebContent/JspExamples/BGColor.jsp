@@ -16,10 +16,14 @@
 <title>BGColor</title>
 
 <style>
-body{
+<!-- body{
 	background-color: rgb(<jsp:getProperty name="bg" property="r" />, 
 						  <jsp:getProperty name="bg" property="g" />, 
 						  <jsp:getProperty name="bg" property="b" />);
+} -->
+
+body{
+	background-color: rgb( ${bg.r}, ${bg.g}, ${bg.b} );
 }
 </style>
 
@@ -31,10 +35,10 @@ body{
 	Red: <jsp:getProperty name="bg" property="r" /> 
 </h3>
 <h3>	
-	Green: <jsp:getProperty name="bg" property="g" /> 
+	Green: <%= bg.getG() %> 
 </h3>
 <h3>
-	Blue: <jsp:getProperty name="bg" property="b" /> 
+	Blue: ${ bg.b }
 </h3>
 
 
