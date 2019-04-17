@@ -1,5 +1,7 @@
 package models;
 
+import java.util.Date;
+
 public class GuestBookEntry {
 
 	static int count = 0;
@@ -7,17 +9,31 @@ public class GuestBookEntry {
 	int id;
 	String name;
 	String message;
+	Date date;
 	
+	public GuestBookEntry() {
+		date = new Date();
+		this.id = count++;
+	}
 	
 	public GuestBookEntry(String name, String message) {
 		super();
 		this.name = name;
 		this.message = message;
+		this.date = new Date();
 		
 		this.id = count++;
 	}
 	
 	
+	public Date getDate() {
+		return date;
+	}
+
+	public void setDate(Date date) {
+		this.date = date;
+	}
+
 	public int getId() {
 		return id;
 	}
