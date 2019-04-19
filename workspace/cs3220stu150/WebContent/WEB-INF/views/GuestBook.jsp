@@ -30,7 +30,7 @@
 				<th>Date</th>	
 				<th>Actions</th>			
 			</tr>
-			
+						
 			<c:forEach items="${ guestbookEntries }" var="entry" varStatus="status">
 				<tr>
 					<td>${ status.index + 1 }</td>
