@@ -60,8 +60,8 @@ Official GitHub for CS3220 - Spring 2019 sections
 |  11 - Thursday | Spring Break - No Class   |   |
 |  12 - Tuesday  |   | [Watch](http://albertcervantes.com/cs3220/lectures/cs3220-2019-04-09-ttr.mp4)  |
 |  12 - Thursday | Introduction to Databases.  |   [Watch](http://albertcervantes.com/cs3220/lectures/cs3220-2019-04-11-ttr.mp4)  |
-|  13 - Tuesday  |   | [Watch](http://albertcervantes.com/cs3220/lectures/cs3220-2019-04-16-ttr.mp4)  |
-|  13 - Thursday |    |   [Watch](http://albertcervantes.com/cs3220/lectures/cs3220-2019-04-18-ttr.mp4)  |
+|  13 - Tuesday  | JDBC  | [Watch](http://albertcervantes.com/cs3220/lectures/cs3220-2019-04-16-ttr.mp4)  |
+|  13 - Thursday | JSTL SQL   |   [Watch](http://albertcervantes.com/cs3220/lectures/cs3220-2019-04-18-ttr.mp4)  |
 |  14 - Tuesday  |   | [Watch](http://albertcervantes.com/cs3220/lectures/cs3220-2019-04-23-ttr.mp4)  |
 |  14 - Thursday |  (Last Day to Withdraw)  |   [Watch](http://albertcervantes.com/cs3220/lectures/cs3220-2019-04-25-ttr.mp4)  |
 |  15 - Tuesday  |   | [Watch](http://albertcervantes.com/cs3220/lectures/cs3220-2019-04-30-ttr.mp4)  |
