@@ -54,8 +54,8 @@ Official GitHub for CS3220 - Spring 2019 sections
 |  8 - Thursday | Midterm - Part 2. Open-Book, Open-Note.   | - |
 |  9 - Tuesday  | Introduction to JSP and JSP Scripting Elements.  | [Watch](http://albertcervantes.com/cs3220/lectures/cs3220-2019-03-19-ttr.mp4)  |
 |  9 - Thursday |  Java Beans and Java Expression Language (EL)  |   [Watch](http://albertcervantes.com/cs3220/lectures/cs3220-2019-03-21-ttr.mp4)  |
-|  10 - Tuesday  |   | [Watch](http://albertcervantes.com/cs3220/lectures/cs3220-2019-03-26-ttr.mp4)  |
-|  10 - Thursday |    |   [Watch](http://albertcervantes.com/cs3220/lectures/cs3220-2019-03-28-ttr.mp4)  |
+|  10 - Tuesday  |  Introduction to JSTL MVC (Saturday Video) | [Watch](http://albertcervantes.com/cs3220/lectures/cs3220-2019-04-13-s.mp4) |
+|  10 - Thursday |  Introduction to JSTL MVC (Saturday Video) | [Watch](http://albertcervantes.com/cs3220/lectures/cs3220-2019-04-13-s.mp4) |
 |  11 - Tuesday  | Spring Break - No Class  |   |
 |  11 - Thursday | Spring Break - No Class   |   |
 |  12 - Tuesday  |   | [Watch](http://albertcervantes.com/cs3220/lectures/cs3220-2019-04-09-ttr.mp4)  |
