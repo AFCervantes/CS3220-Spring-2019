@@ -86,8 +86,8 @@ Official GitHub for CS3220 - Spring 2019 sections
 |  9 - Saturday |   | [Watch](http://albertcervantes.com/cs3220/lectures/cs3220-2019-03-23-s.mp4) |
 |  10 - Saturday | Introduction to JSP, Java Beans, and Expression Language (EL).  | [Watch](http://albertcervantes.com/cs3220/lectures/cs3220-2019-03-30-s.mp4) |
 |  11 - Saturday | Spring Break - No Class  |  |
-|  12 - Saturday | Introduction to JSTL, MVC, and Databases.  | [Watch](http://albertcervantes.com/cs3220/lectures/cs3220-2019-04-13-s.mp4) |
-|  13 - Saturday |   | [Watch](http://albertcervantes.com/cs3220/lectures/cs3220-2019-04-20-s.mp4) |
+|  12 - Saturday | Introduction to JSTL, and MVC.  | [Watch](http://albertcervantes.com/cs3220/lectures/cs3220-2019-04-13-s.mp4) |
+|  13 - Saturday | MySQL, JDBC, and JSTL SQL   | [Watch](http://albertcervantes.com/cs3220/lectures/cs3220-2019-04-20-s.mp4) |
 |  14 - Saturday |   | [Watch](http://albertcervantes.com/cs3220/lectures/cs3220-2019-04-27-s.mp4) |
 |  15 - Saturday |   | [Watch](http://albertcervantes.com/cs3220/lectures/cs3220-2019-05-04-s.mp4) |
 |  16 - Saturday |   | [Watch](http://albertcervantes.com/cs3220/lectures/cs3220-2019-05-11-s.mp4) |
