@@ -1,0 +1,57 @@
+<taglib xmlns="http://java.sun.com/xml/ns/javaee"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://java.sun.com/xml/ns/javaee
+        http://java.sun.com/xml/ns/javaee/web-jsptaglibrary_2_1.xsd"
+    version="2.1">
+
+    <display-name>CS3220 Custom Tag Examples</display-name>
+    <tlib-version>1.0</tlib-version>
+    <short-name>cs3220</short-name>
+    <uri>http://cs.calstatela.edu/cs3220stu150/examples</uri>
+
+    <tag>
+        <name>add</name>
+        <tag-class>cs3220.tag.AddTag</tag-class>
+        <body-content>empty</body-content>
+        <attribute>
+            <name>op1</name>
+            <required>true</required>
+            <rtexprvalue>true</rtexprvalue>
+        </attribute>
+        <attribute>
+            <name>op2</name>
+            <required>true</required>
+            <rtexprvalue>true</rtexprvalue>
+        </attribute>
+    </tag>
+
+    <tag>
+        <name>requestInfo</name>
+        <tag-class>cs3220.tag.RequestInfoTag</tag-class>
+        <body-content>empty</body-content>
+        <attribute>
+            <name>type</name>
+            <required>true</required>
+            <rtexprvalue>true</rtexprvalue>
+        </attribute>
+    </tag>
+
+    <tag>
+        <name>cap</name>
+        <tag-class>cs3220.tag.CapTag</tag-class>
+        <body-content>scriptless</body-content>
+    </tag>
+
+    <tag-file>
+        <name>greeting</name>
+        <path>/WEB-INF/tags/greeting.tag</path>
+    </tag-file>
+
+    <function>
+        <name>leetTalk</name>
+        <function-class>cs3220.tag.Functions</function-class>
+        <function-signature>java.lang.String leetTalk( java.lang.String
+            )</function-signature>
+    </function>
+
+</taglib>
