@@ -25,7 +25,7 @@
 
 
 <p>This is the tag file:
-	<cs3220:greeting name="Joe">Hello</cs3220:greeting>
+	<cs3220:greeting name="Albert">Hello</cs3220:greeting>
 </p>
 
 <p>This is the EL function:
