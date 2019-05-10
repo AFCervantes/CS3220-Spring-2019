@@ -62,8 +62,8 @@ Official GitHub for CS3220 - Spring 2019 sections
 |  12 - Thursday | Introduction to Databases.  |   [Watch](http://albertcervantes.com/cs3220/lectures/cs3220-2019-04-11-ttr.mp4)  |
 |  13 - Tuesday  | JDBC  | [Watch](http://albertcervantes.com/cs3220/lectures/cs3220-2019-04-16-ttr.mp4)  |
 |  13 - Thursday | JSTL SQL   |   [Watch](http://albertcervantes.com/cs3220/lectures/cs3220-2019-04-18-ttr.mp4)  |
-|  14 - Tuesday  |   | [Watch](http://albertcervantes.com/cs3220/lectures/cs3220-2019-04-23-ttr.mp4)  |
-|  14 - Thursday |  (Last Day to Withdraw)  |   [Watch](http://albertcervantes.com/cs3220/lectures/cs3220-2019-04-25-ttr.mp4)  |
+|  14 - Tuesday  | Introduction to Custom Tags  | [Watch](http://albertcervantes.com/cs3220/lectures/cs3220-2019-04-23-ttr.mp4)  |
+|  14 - Thursday |  More Custom Tags (Saturday Lecture Video) |   [Watch](http://albertcervantes.com/cs3220/lectures/cs3220-2019-04-27-s.mp4)  |
 |  15 - Tuesday  |   | [Watch](http://albertcervantes.com/cs3220/lectures/cs3220-2019-04-30-ttr.mp4)  |
 |  15 - Thursday |    |   [Watch](http://albertcervantes.com/cs3220/lectures/cs3220-2019-05-02-ttr.mp4)  |
 |  16 - Tuesday  |   | [Watch](http://albertcervantes.com/cs3220/lectures/cs3220-2019-05-07-ttr.mp4)  |
@@ -88,7 +88,7 @@ Official GitHub for CS3220 - Spring 2019 sections
 |  11 - Saturday | Spring Break - No Class  |  |
 |  12 - Saturday | Introduction to JSTL, and MVC.  | [Watch](http://albertcervantes.com/cs3220/lectures/cs3220-2019-04-13-s.mp4) |
 |  13 - Saturday | MySQL, JDBC, and JSTL SQL   | [Watch](http://albertcervantes.com/cs3220/lectures/cs3220-2019-04-20-s.mp4) |
-|  14 - Saturday |   | [Watch](http://albertcervantes.com/cs3220/lectures/cs3220-2019-04-27-s.mp4) |
+|  14 - Saturday | Custom Tags  | [Watch](http://albertcervantes.com/cs3220/lectures/cs3220-2019-04-27-s.mp4) |
 |  15 - Saturday |   | [Watch](http://albertcervantes.com/cs3220/lectures/cs3220-2019-05-04-s.mp4) |
 |  16 - Saturday |   | [Watch](http://albertcervantes.com/cs3220/lectures/cs3220-2019-05-11-s.mp4) |
 |  17 - Saturday | Final Exam  |  |
